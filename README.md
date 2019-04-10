@@ -8,3 +8,4 @@ Here we share the results with the medical informatics community.
 
 - Article names and classification: https://cloud.tsinghua.edu.cn/f/11a02d7c7e0c4037b1b0/?dl=1
 - Associated Infobox data: https://cloud.tsinghua.edu.cn/f/a82e6ba54ca742e6a83b/?dl=1
+- Associated Wikidata Items: https://cloud.tsinghua.edu.cn/f/e892125c83374d7588bf/?dl=1
